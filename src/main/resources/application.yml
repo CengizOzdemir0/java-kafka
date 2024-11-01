@@ -1,0 +1,6 @@
+fd:
+  kafka:
+    address: 127.0.0.1:9092 #kafka adresi
+    topic: fd-topic
+    group:
+      id: fd-group
